@@ -33,6 +33,7 @@ Models User
 3. Controllers 
 
 Controllers - MajorController
+
 => Show & Detail
 ![controllers - major (show   detail)](https://user-images.githubusercontent.com/72928507/155869385-b97d8019-7148-4fc3-b48f-ddc65f61a785.png)
 
@@ -46,6 +47,7 @@ Controllers - MajorController
 ![controllers - major (destroy)](https://user-images.githubusercontent.com/72928507/155869402-637bd3fd-ca15-4de6-b961-f1cb46366f4f.png)
  
  Controllers - StudentController
+ 
  => Show & Detail
  ![controllers - student (show   detail)](https://user-images.githubusercontent.com/72928507/155869431-a7bf8033-dce3-48e4-a030-b5ddc448cd40.png)
  
